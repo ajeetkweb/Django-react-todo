@@ -1,0 +1,20 @@
+====== backend =======
+
+create virtual environment
+using pip
+
+django
+djangorestframework
+django-cors-headers
+
+
+====== frontend ======
+
+create-react-app frontend
+
+
+npm install bootstrap
+npm install reactstrap
+npm install react-bootstrap
+npm install axios
+
